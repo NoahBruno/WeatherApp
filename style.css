@@ -42,7 +42,7 @@ h3{
     font-size: 40px;
 }
 h1{
-    background-image: url('/assets/sunshine.jpeg');
+    background-image: url('assets/sunshine.jpeg');
     font-weight: bold;
     -webkit-text-stroke: thin;
     -webkit-text-stroke-color: rgba(9, 11, 12, 0.6);
